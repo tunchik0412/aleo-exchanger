@@ -15,3 +15,8 @@ snarkvm run create_currencies
 snarkvm run add_currencies
 snarkvm run change_currency
 ```
+Discord
+
+```bash
+discordname: inorin8488
+```
